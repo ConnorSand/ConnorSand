@@ -6,9 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ConnorSand&label=Profile%20views&color=0e75b6&style=flat" alt="Connor Sanderson" /> </p>
 
-- :man_technologist: Proficient in several software systems: HYSYS, EXCEL, MATLAB, VISIO with programming skills
-- :sunglasses: Hungry about Tech knowledge - HTML, JavaScript, CSS, Python, Ruby on Rails
-- I’m currently learning Ruby on Rails with plans to learn React.js, Node.js 
+- :man_technologist: Proficient in several software systems: JavaScript, Ruby, Rails, Python, HTML, CSS
+- I’m currently learning Ruby on Rails with plans to learn React.js, Node.js soon!
 - 📫 How to reach me: connor.sanderson@outlook.com
 
 ### A Summary

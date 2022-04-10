@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/ConnorSand/ConnorSand/blob/main/Animation.gif" alt="">
-</p>
 
 <h3 align="center">A Systems Engineer transitioning to tech</h3> 
 
@@ -12,8 +9,6 @@
 
 ### A Summary
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ConnorSand&theme=vue)
-
-<img align="right" alt="GIF" src="coding.gif" width="408" height="300" />
 
 ### Weekly Activities
 
@@ -43,7 +38,7 @@ Other        1 hr 12 mins    ██████▓░░░░░░░░░░
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConnorSand&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
-## LeetCode for life! ([profile](https://leetcode.com/ConnorSand))
+## LeetCode Stats:([profile](https://leetcode.com/ConnorSand))
 [![Connor's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ConnorSand)](https://github.com/KnlnKS/leetcode-stats)
 
 <!-- Markdown -->

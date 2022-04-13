@@ -15,9 +15,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 April 2022 - To: 11 April 2022
+From: 05 April 2022 - To: 12 April 2022
 
-JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Ruby       2 hrs 56 mins   ███████████████████████▓░   94.66 %
+ERB        7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+JSON       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->

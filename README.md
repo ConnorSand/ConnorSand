@@ -15,7 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 April 2022 - To: 12 April 2022
+From: 06 April 2022 - To: 13 April 2022
 
 Ruby       2 hrs 56 mins   ███████████████████████▓░   94.66 %
 ERB        7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %

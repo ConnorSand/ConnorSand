@@ -15,7 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 April 2022 - To: 14 April 2022
+From: 08 April 2022 - To: 15 April 2022
 
 Ruby       4 hrs 25 mins   ███████████████████▓░░░░░   78.71 %
 SCSS       52 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.67 %

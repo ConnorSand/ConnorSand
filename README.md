@@ -15,7 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 May 2022 - To: 06 June 2022
+From: 31 May 2022 - To: 07 June 2022
 
 ERB     40 mins         ███████████████░░░░░░░░░░   59.58 %
 SCSS    18 mins         ███████░░░░░░░░░░░░░░░░░░   27.49 %

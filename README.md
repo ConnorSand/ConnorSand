@@ -15,12 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 May 2022 - To: 07 June 2022
-
-ERB     40 mins         ███████████████░░░░░░░░░░   59.58 %
-SCSS    18 mins         ███████░░░░░░░░░░░░░░░░░░   27.49 %
-Ruby    8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.14 %
-Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

@@ -15,7 +15,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 16 July 2022 - To: 23 July 2022
+
+Terraform   50 mins         █████████████████████▒░░░   85.04 %
+HTML        4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
+JSON        1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+Other       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
 ```
 
 <!--END_SECTION:waka-->

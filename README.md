@@ -15,11 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 July 2022 - To: 04 August 2022
+From: 29 July 2022 - To: 05 August 2022
 
-YAML        2 hrs 55 mins   █████████████░░░░░░░░░░░░   52.13 %
-Terraform   2 hrs 39 mins   ████████████░░░░░░░░░░░░░   47.46 %
-Other       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Terraform   6 hrs 32 mins   ████████████████▒░░░░░░░░   65.73 %
+YAML        3 hrs 5 mins    ███████▓░░░░░░░░░░░░░░░░░   31.09 %
+Bash        17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+JSON        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Other       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->

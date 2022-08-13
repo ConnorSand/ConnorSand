@@ -15,12 +15,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 August 2022 - To: 11 August 2022
+From: 05 August 2022 - To: 12 August 2022
 
-Terraform    16 hrs 28 mins  ███████████████████████▒░   93.24 %
-Bash         35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
-YAML         21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
-Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+Terraform    13 hrs 35 mins  ████████████████████████▒   97.88 %
+Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
 ```
 
 <!--END_SECTION:waka-->

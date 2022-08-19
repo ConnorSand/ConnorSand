@@ -15,12 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 August 2022 - To: 16 August 2022
+From: 11 August 2022 - To: 18 August 2022
 
-Terraform    10 hrs 45 mins  █████████████████░░░░░░░░   67.91 %
-JavaScript   4 hrs 6 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.91 %
-HTML         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
-Other        17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+JavaScript   4 hrs 6 mins    ███████████░░░░░░░░░░░░░░   43.35 %
+Terraform    3 hrs 4 mins    ████████░░░░░░░░░░░░░░░░░   32.46 %
+Ruby         1 hr 31 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.07 %
+HTML         25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
+Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
 ```
 
 <!--END_SECTION:waka-->

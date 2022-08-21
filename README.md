@@ -15,14 +15,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 August 2022 - To: 19 August 2022
+From: 13 August 2022 - To: 20 August 2022
 
-Terraform    3 hrs 4 mins    ████████▓░░░░░░░░░░░░░░░░   34.16 %
-JavaScript   2 hrs 39 mins   ███████▒░░░░░░░░░░░░░░░░░   29.64 %
-Ruby         2 hrs 3 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.80 %
-YAML         44 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
-HTML         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
-Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+Terraform    3 hrs 4 mins    ██████████▓░░░░░░░░░░░░░░   43.33 %
+Ruby         2 hrs 3 mins    ███████▒░░░░░░░░░░░░░░░░░   28.92 %
+JavaScript   1 hr 13 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.33 %
+YAML         44 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->

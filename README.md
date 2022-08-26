@@ -15,13 +15,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 August 2022 - To: 23 August 2022
+From: 18 August 2022 - To: 25 August 2022
 
-Ruby        2 hrs 3 mins    ████████████████░░░░░░░░░   63.50 %
-YAML        1 hr 8 mins     █████████░░░░░░░░░░░░░░░░   35.46 %
-SquidConf   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-Markdown    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-Docker      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Ruby        1 hr 23 mins    ███████████▓░░░░░░░░░░░░░   46.05 %
+YAML        1 hr 13 mins    ██████████░░░░░░░░░░░░░░░   40.22 %
+Other       12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
 ```
 
 <!--END_SECTION:waka-->

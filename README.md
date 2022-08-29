@@ -15,7 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 August 2022 - To: 27 August 2022
+From: 21 August 2022 - To: 28 August 2022
 
 YAML        29 mins         ████████████░░░░░░░░░░░░░   47.98 %
 Other       12 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.70 %

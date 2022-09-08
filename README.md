@@ -15,12 +15,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 August 2022 - To: 05 September 2022
+From: 31 August 2022 - To: 07 September 2022
 
-Slim         13 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.61 %
-Ruby         13 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.96 %
-JavaScript   9 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.16 %
-Other        8 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.43 %
+JavaScript   56 mins         ███████████░░░░░░░░░░░░░░   44.63 %
+YAML         36 mins         ███████▒░░░░░░░░░░░░░░░░░   29.17 %
+Other        17 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.99 %
 ```
 
 <!--END_SECTION:waka-->

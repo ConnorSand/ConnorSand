@@ -15,7 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 October 2022 - To: 09 October 2022
+From: 03 October 2022 - To: 10 October 2022
 
 Bash         1 hr 32 mins    █████████████▒░░░░░░░░░░░   52.72 %
 YAML         46 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.58 %

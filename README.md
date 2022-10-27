@@ -15,11 +15,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 October 2022 - To: 25 October 2022
+From: 19 October 2022 - To: 26 October 2022
 
-Bash         31 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.22 %
-YAML         20 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.47 %
-Other        17 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 %
+Bash         19 mins         █████░░░░░░░░░░░░░░░░░░░░   19.56 %
+JavaScript   17 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.36 %
+Other        15 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.99 %
 ```
 
 <!--END_SECTION:waka-->

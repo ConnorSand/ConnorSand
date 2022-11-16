@@ -15,11 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 November 2022 - To: 14 November 2022
-
-YAML       4 mins          ███████████████▓░░░░░░░░░   62.69 %
-Ruby       1 min           ███████▓░░░░░░░░░░░░░░░░░   30.00 %
-Other      0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

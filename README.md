@@ -15,7 +15,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 09 November 2022 - To: 16 November 2022
+
+YAML   4 hrs 57 mins   ████████████████████████▓   98.62 %
+CSV    4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
 ```
 
 <!--END_SECTION:waka-->

@@ -15,11 +15,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 November 2022 - To: 30 November 2022
+From: 24 November 2022 - To: 01 December 2022
 
-YAML    8 hrs 15 mins   █████████████████████░░░░   84.17 %
-JSON    1 hr 17 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.23 %
-Other   15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+YAML       8 hrs 13 mins   ██████████████████████▒░░   89.57 %
+JSON       32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
+Other      15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
 ```
 
 <!--END_SECTION:waka-->

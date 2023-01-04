@@ -15,7 +15,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 27 December 2022 - To: 03 January 2023
+
+YAML    1 hr 55 mins    ███████████████████████▓░   95.28 %
+Other   5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
 ```
 
 <!--END_SECTION:waka-->

@@ -15,10 +15,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 December 2022 - To: 03 January 2023
+From: 28 December 2022 - To: 04 January 2023
 
-YAML    1 hr 55 mins    ███████████████████████▓░   95.28 %
-Other   5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
+YAML    3 hrs 27 mins   ████████████████████████▒   97.25 %
+Other   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
 ```
 
 <!--END_SECTION:waka-->

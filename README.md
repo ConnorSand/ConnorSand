@@ -15,7 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 December 2022 - To: 07 January 2023
+From: 01 January 2023 - To: 08 January 2023
 
 YAML    4 hrs 10 mins   ███████████████▓░░░░░░░░░   63.27 %
 Bash    1 hr 39 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.20 %

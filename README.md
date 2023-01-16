@@ -15,7 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 January 2023 - To: 14 January 2023
+From: 08 January 2023 - To: 15 January 2023
 
 YAML    2 hrs 10 mins   ██████████████████████░░░   88.37 %
 Other   17 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 %

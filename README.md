@@ -15,11 +15,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 February 2023 - To: 27 February 2023
+From: 21 February 2023 - To: 28 February 2023
 
-YAML       12 hrs 4 mins   ████████████████████████░   95.40 %
-JSON       22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
-Other      11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
+YAML       8 hrs 37 mins   ███████████████████████▓░   94.51 %
+JSON       22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
+Other      7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
 ```
 
 <!--END_SECTION:waka-->

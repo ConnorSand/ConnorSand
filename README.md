@@ -15,10 +15,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 March 2023 - To: 12 March 2023
+From: 06 March 2023 - To: 13 March 2023
 
-YAML       8 hrs 27 mins   ███████████████████████▒░   93.94 %
-Other      13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+YAML       6 hrs 33 mins   ███████████████████████▒░   93.80 %
+CSV        12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+Markdown   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+Other      6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
 ```
 
 <!--END_SECTION:waka-->

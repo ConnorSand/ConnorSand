@@ -15,10 +15,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 April 2023 - To: 10 April 2023
+From: 04 April 2023 - To: 11 April 2023
 
-YAML    5 hrs 14 mins   ██████████████████████▓░░   91.12 %
-Other   30 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
+YAML    3 hrs 55 mins   ██████████████████████░░░   88.48 %
+Other   30 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.28 %
 ```
 
 <!--END_SECTION:waka-->

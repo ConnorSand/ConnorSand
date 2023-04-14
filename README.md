@@ -15,9 +15,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 April 2023 - To: 12 April 2023
+From: 06 April 2023 - To: 13 April 2023
 
-No activity tracked
+YAML    1 hr 36 mins    ███████████████████████▒░   93.18 %
+Other   6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
 ```
 
 <!--END_SECTION:waka-->

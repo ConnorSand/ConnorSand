@@ -15,7 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 June 2023 - To: 24 June 2023
+From: 18 June 2023 - To: 25 June 2023
 
 Markdown     2 hrs 12 mins   ███████▒░░░░░░░░░░░░░░░░░   29.36 %
 JavaScript   1 hr 56 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.81 %

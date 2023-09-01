@@ -15,13 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 August 2023 - To: 30 August 2023
+From: 24 August 2023 - To: 31 August 2023
 
-JSON             2 hrs 22 mins   ███████▓░░░░░░░░░░░░░░░░░   30.57 %
-Bash             1 hr 10 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.06 %
-Java             1 hr 7 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.38 %
-ActionScript 3   1 hr 6 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.32 %
-Ezhil            37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 %
+Java             1 hr 13 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.69 %
+ActionScript 3   1 hr 5 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.10 %
+Python           31 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.62 %
+Ezhil            29 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.98 %
+Groovy           28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 %
 ```
 
 <!--END_SECTION:waka-->

@@ -15,13 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 August 2023 - To: 07 September 2023
+From: 01 September 2023 - To: 08 September 2023
 
-Bash                       4 hrs 23 mins   ███████████░░░░░░░░░░░░░░   44.06 %
-Ezhil                      2 hrs 52 mins   ███████▒░░░░░░░░░░░░░░░░░   28.84 %
-Java                       39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
-Terraform                  29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
-JavaScript                 14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+Bash                       5 hrs 32 mins   █████████████▓░░░░░░░░░░░   55.24 %
+Ezhil                      2 hrs 45 mins   ███████░░░░░░░░░░░░░░░░░░   27.56 %
+Python                     19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
+Java                       17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+TSQL                       14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
 ```
 
 <!--END_SECTION:waka-->

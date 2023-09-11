@@ -15,7 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2023 - To: 09 September 2023
+From: 03 September 2023 - To: 10 September 2023
 
 Bash                       5 hrs 32 mins   █████████████▓░░░░░░░░░░░   55.24 %
 Ezhil                      2 hrs 45 mins   ███████░░░░░░░░░░░░░░░░░░   27.56 %

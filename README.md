@@ -15,13 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 September 2023 - To: 10 September 2023
+From: 04 September 2023 - To: 11 September 2023
 
-Bash                       5 hrs 32 mins   █████████████▓░░░░░░░░░░░   55.24 %
-Ezhil                      2 hrs 45 mins   ███████░░░░░░░░░░░░░░░░░░   27.56 %
-Python                     19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-Java                       17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
-TSQL                       14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+Bash                       6 hrs 9 mins    █████████████▒░░░░░░░░░░░   53.19 %
+Ezhil                      2 hrs 45 mins   ██████░░░░░░░░░░░░░░░░░░░   23.85 %
+YAML                       45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
+TSQL                       42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
+Python                     19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
 ```
 
 <!--END_SECTION:waka-->

@@ -15,7 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 September 2023 - To: 15 September 2023
+From: 09 September 2023 - To: 16 September 2023
 
 Bash         2 hrs 44 mins   ███████▓░░░░░░░░░░░░░░░░░   30.09 %
 Terraform    1 hr 55 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.07 %

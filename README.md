@@ -15,13 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 September 2023 - To: 17 September 2023
+From: 11 September 2023 - To: 18 September 2023
 
-Bash         2 hrs 44 mins   ███████▓░░░░░░░░░░░░░░░░░   30.09 %
-Terraform    1 hr 55 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.07 %
-Ezhil        1 hr 39 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.22 %
-YAML         1 hr 34 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.38 %
-TSQL         28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
+Terraform    1 hr 55 mins    ███████▒░░░░░░░░░░░░░░░░░   28.90 %
+Ezhil        1 hr 39 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.98 %
+Bash         1 hr 27 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.93 %
+YAML         52 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.09 %
+Jinja2       15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
 ```
 
 <!--END_SECTION:waka-->

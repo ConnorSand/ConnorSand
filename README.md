@@ -15,13 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 September 2023 - To: 20 September 2023
+From: 14 September 2023 - To: 21 September 2023
 
-Terraform      14 hrs 23 mins  ███████████████████▓░░░░░   78.52 %
-Ezhil          1 hr 15 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 %
-HCL            37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
-YAML           29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
-Jinja2         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+Terraform      18 hrs 12 mins  ████████████████████▓░░░░   82.19 %
+HCL            1 hr 20 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
+Markdown       42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+YAML           24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+Assembly       22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
 ```
 
 <!--END_SECTION:waka-->

@@ -15,7 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2023 - To: 07 October 2023
+From: 01 October 2023 - To: 08 October 2023
 
 Terraform        7 hrs 30 mins   ██████████████░░░░░░░░░░░   55.34 %
 JSON             4 hrs 12 mins   ███████▓░░░░░░░░░░░░░░░░░   30.95 %

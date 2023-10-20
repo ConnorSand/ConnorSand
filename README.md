@@ -15,13 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 October 2023 - To: 18 October 2023
+From: 12 October 2023 - To: 19 October 2023
 
-Terraform        5 hrs 1 min     ██████████████▒░░░░░░░░░░   57.65 %
-YAML             1 hr 7 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.83 %
-TypeScript       1 hr 3 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.10 %
-JavaScript       46 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 %
-Other            13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+Terraform        3 hrs 8 mins    ██████████░░░░░░░░░░░░░░░   40.00 %
+YAML             1 hr 31 mins    █████░░░░░░░░░░░░░░░░░░░░   19.41 %
+TypeScript       1 hr 3 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.45 %
+JavaScript       46 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.86 %
+JSON             36 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 %
 ```
 
 <!--END_SECTION:waka-->

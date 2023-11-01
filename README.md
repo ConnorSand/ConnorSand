@@ -15,13 +15,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 October 2023 - To: 30 October 2023
+From: 24 October 2023 - To: 31 October 2023
 
-Terraform   43 mins         █████████▓░░░░░░░░░░░░░░░   38.66 %
-CSV         34 mins         ███████▓░░░░░░░░░░░░░░░░░   30.36 %
-Assembly    15 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.57 %
-Other       12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.32 %
-Ezhil       4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
+CSV         1 hr 1 min      █████████████▒░░░░░░░░░░░   52.77 %
+Terraform   42 mins         █████████░░░░░░░░░░░░░░░░   36.24 %
+Other       12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 %
+Python      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->

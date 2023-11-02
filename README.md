@@ -15,12 +15,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 October 2023 - To: 31 October 2023
+From: 25 October 2023 - To: 01 November 2023
 
-CSV         1 hr 1 min      █████████████▒░░░░░░░░░░░   52.77 %
-Terraform   42 mins         █████████░░░░░░░░░░░░░░░░   36.24 %
-Other       12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 %
-Python      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Python      2 hrs 31 mins   ███████████████████░░░░░░   75.64 %
+CSV         35 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.96 %
+Other       12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
+Terraform   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->

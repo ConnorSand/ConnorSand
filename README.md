@@ -15,10 +15,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 October 2023 - To: 05 November 2023
+From: 30 October 2023 - To: 06 November 2023
 
-Python      2 hrs 41 mins   ████████████████████▒░░░░   81.57 %
-CSV         35 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.22 %
+Python      2 hrs 41 mins   █████████████████████░░░░   83.66 %
+CSV         31 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.13 %
 Other       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 Terraform   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```

@@ -15,12 +15,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 November 2023 - To: 08 November 2023
+From: 02 November 2023 - To: 09 November 2023
 
-Python   9 mins          ██████████████████░░░░░░░   71.89 %
-YAML     2 mins          █████░░░░░░░░░░░░░░░░░░░░   20.58 %
-Other    0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
-Jinja2   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+YAML     2 mins          ███████████████████▓░░░░░   78.98 %
+Other    0 secs          █████░░░░░░░░░░░░░░░░░░░░   20.04 %
+Jinja2   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
 ```
 
 <!--END_SECTION:waka-->

@@ -15,11 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 November 2023 - To: 13 November 2023
+From: 07 November 2023 - To: 14 November 2023
 
-YAML     2 mins          ███████████████████▓░░░░░   78.98 %
-Other    0 secs          █████░░░░░░░░░░░░░░░░░░░░   20.04 %
-Jinja2   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+YAML        1 hr 14 mins    ███████████████▓░░░░░░░░░   62.08 %
+Terraform   32 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.97 %
+HCL         12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
+Other       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+Python      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->

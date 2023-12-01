@@ -15,13 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 November 2023 - To: 29 November 2023
+From: 23 November 2023 - To: 30 November 2023
 
-Terraform    7 hrs 50 mins   ████████████▓░░░░░░░░░░░░   51.02 %
-Docker       3 hrs 6 mins    █████░░░░░░░░░░░░░░░░░░░░   20.19 %
-Bash         1 hr 31 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 %
-YAML         1 hr 7 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
-JavaScript   38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
+Terraform    9 hrs 42 mins   █████████████░░░░░░░░░░░░   51.64 %
+Docker       4 hrs 39 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.77 %
+Bash         1 hr 31 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
+YAML         59 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
+JavaScript   38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
 ```
 
 <!--END_SECTION:waka-->

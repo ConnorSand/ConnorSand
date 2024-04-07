@@ -15,7 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 March 2024 - To: 05 April 2024
+From: 30 March 2024 - To: 06 April 2024
 
 Bash     4 hrs 19 mins   ███████████████████████▒░   93.23 %
 Other    14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %

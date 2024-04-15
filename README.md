@@ -15,7 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 April 2024 - To: 13 April 2024
+From: 07 April 2024 - To: 14 April 2024
 
 Bash     20 mins         ████████████░░░░░░░░░░░░░   47.38 %
 Python   15 mins         █████████░░░░░░░░░░░░░░░░   36.26 %

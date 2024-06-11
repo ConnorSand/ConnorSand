@@ -15,7 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 June 2024 - To: 09 June 2024
+From: 03 June 2024 - To: 10 June 2024
 
 JavaScript    8 mins          ████████████████░░░░░░░░░   64.38 %
 Markdown      4 mins          ████████▒░░░░░░░░░░░░░░░░   33.27 %

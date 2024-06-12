@@ -15,13 +15,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 June 2024 - To: 10 June 2024
+From: 04 June 2024 - To: 11 June 2024
 
-JavaScript    8 mins          ████████████████░░░░░░░░░   64.38 %
-Markdown      4 mins          ████████▒░░░░░░░░░░░░░░░░   33.27 %
-Other         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-Image (svg)   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-JSON          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

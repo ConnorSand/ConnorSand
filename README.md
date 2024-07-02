@@ -15,11 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 June 2024 - To: 30 June 2024
+From: 24 June 2024 - To: 01 July 2024
 
-Terraform    14 mins         ██████████████▒░░░░░░░░░░   57.62 %
-Other        10 mins         ██████████▒░░░░░░░░░░░░░░   41.63 %
-Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+JavaScript   18 mins         ██████████▒░░░░░░░░░░░░░░   41.94 %
+Terraform    14 mins         ████████░░░░░░░░░░░░░░░░░   31.69 %
+Other        10 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.90 %
+JSON         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
 <!--END_SECTION:waka-->

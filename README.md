@@ -15,13 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 July 2024 - To: 18 July 2024
+From: 12 July 2024 - To: 19 July 2024
 
-YAML            4 hrs 41 mins   ███████▒░░░░░░░░░░░░░░░░░   28.83 %
-JavaScript      3 hrs 33 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.94 %
-Bash            3 hrs 1 min     ████▓░░░░░░░░░░░░░░░░░░░░   18.57 %
-JSON            2 hrs 31 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.59 %
-Other           47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+YAML            5 hrs 20 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.98 %
+JavaScript      4 hrs 24 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.21 %
+Bash            3 hrs 41 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.60 %
+JSON            2 hrs 43 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.75 %
+Docker          1 hr 25 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
 ```
 
 <!--END_SECTION:waka-->

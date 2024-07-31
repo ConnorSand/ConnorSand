@@ -15,13 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 July 2024 - To: 29 July 2024
+From: 23 July 2024 - To: 30 July 2024
 
-Python        3 hrs 36 mins   █████████████████▓░░░░░░░   71.23 %
-TypeScript    57 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.82 %
-Image (svg)   26 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
-Git Config    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Python        3 hrs 36 mins   ███████████▓░░░░░░░░░░░░░   46.19 %
+TypeScript    2 hrs 23 mins   ███████▓░░░░░░░░░░░░░░░░░   30.51 %
+YAML          31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
+Image (svg)   26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
+Terraform     24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
 ```
 
 <!--END_SECTION:waka-->

@@ -15,13 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 July 2024 - To: 31 July 2024
+From: 25 July 2024 - To: 01 August 2024
 
-Python        3 hrs 36 mins   ████████▓░░░░░░░░░░░░░░░░   34.16 %
-TypeScript    3 hrs 5 mins    ███████▒░░░░░░░░░░░░░░░░░   29.21 %
-Markdown      59 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 %
-YAML          39 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
-CSS           37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
+TypeScript    4 hrs 56 mins   █████████░░░░░░░░░░░░░░░░   35.41 %
+Python        3 hrs 37 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.99 %
+CSS           1 hr 29 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.63 %
+Markdown      1 hr 17 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 %
+YAML          39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
 ```
 
 <!--END_SECTION:waka-->

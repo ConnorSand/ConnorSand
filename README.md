@@ -15,13 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 July 2024 - To: 05 August 2024
+From: 30 July 2024 - To: 06 August 2024
 
-TypeScript    4 hrs           ███████████▒░░░░░░░░░░░░░   44.82 %
-CSS           1 hr 29 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.77 %
-Markdown      1 hr 17 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.40 %
-YAML          39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
-Terraform     24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
+TypeScript    2 hrs 34 mins   ██████████▒░░░░░░░░░░░░░░   41.61 %
+CSS           1 hr 17 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.00 %
+Markdown      1 hr 13 mins    █████░░░░░░░░░░░░░░░░░░░░   19.82 %
+Other         23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
+JSON          11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
 ```
 
 <!--END_SECTION:waka-->

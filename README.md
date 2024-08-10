@@ -15,9 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 August 2024 - To: 08 August 2024
+From: 02 August 2024 - To: 09 August 2024
 
-Git Config   0 secs          █████████████████████████   100.00 %
+JavaScript   17 mins         ██████████░░░░░░░░░░░░░░░   40.21 %
+JSON         14 mins         ████████▒░░░░░░░░░░░░░░░░   33.57 %
+Markdown     8 mins          █████░░░░░░░░░░░░░░░░░░░░   20.48 %
+Bash         2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->

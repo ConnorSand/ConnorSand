@@ -15,13 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 August 2024 - To: 21 August 2024
+From: 15 August 2024 - To: 22 August 2024
 
-YAML         1 hr 28 mins    █████████████░░░░░░░░░░░░   52.40 %
-Bash         35 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.91 %
-JavaScript   27 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.18 %
-Markdown     10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
-PHP          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+YAML         1 hr 16 mins    █████████████████████░░░░   84.65 %
+Bash         13 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.50 %
+Terraform    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->

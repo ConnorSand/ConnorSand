@@ -15,13 +15,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 September 2024 - To: 19 September 2024
+From: 13 September 2024 - To: 20 September 2024
 
-Terraform   45 mins         ████████████▒░░░░░░░░░░░░   49.46 %
-Other       23 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.20 %
-Bash        19 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.44 %
-HCL         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
-JSON        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

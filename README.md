@@ -15,12 +15,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 September 2024 - To: 01 October 2024
+From: 25 September 2024 - To: 02 October 2024
 
-Bash         0 secs          █████████████░░░░░░░░░░░░   51.86 %
-JavaScript   0 secs          ███████▒░░░░░░░░░░░░░░░░░   29.25 %
-Groovy       0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.17 %
-YAML         0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
+JavaScript   11 mins         ███████████████████████▓░   94.26 %
+CSV          0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 
 <!--END_SECTION:waka-->

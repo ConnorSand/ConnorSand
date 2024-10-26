@@ -15,13 +15,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 October 2024 - To: 24 October 2024
+From: 18 October 2024 - To: 25 October 2024
 
-JSON            1 hr 21 mins    █████████▓░░░░░░░░░░░░░░░   38.39 %
-PHP             1 hr 5 mins     ███████▓░░░░░░░░░░░░░░░░░   31.18 %
-Other           34 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.17 %
-YAML            21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.22 %
-Bash            4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

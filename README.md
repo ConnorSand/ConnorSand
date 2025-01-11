@@ -15,7 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 January 2025 - To: 09 January 2025
+From: 03 January 2025 - To: 10 January 2025
 
 YAML    4 hrs 39 mins   █████████████████████░░░░   83.67 %
 Other   44 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.32 %

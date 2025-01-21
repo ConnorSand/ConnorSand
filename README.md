@@ -15,12 +15,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 January 2025 - To: 19 January 2025
+From: 13 January 2025 - To: 20 January 2025
 
-YAML         6 hrs 12 mins   █████████████████████▓░░░   86.77 %
-JavaScript   32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
-Other        20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
-HTML         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+YAML         6 hrs 30 mins   █████████████████████▓░░░   87.32 %
+JavaScript   32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
+Other        20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+HTML         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 ```
 
 <!--END_SECTION:waka-->

@@ -15,13 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 February 2025 - To: 15 February 2025
+From: 09 February 2025 - To: 16 February 2025
 
-JavaScript   6 hrs 14 mins   ███████████████████▓░░░░░   78.48 %
-Python       55 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 %
-Markdown     14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
-JSON         13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
-YAML         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+JavaScript   2 hrs 45 mins   ██████████████████░░░░░░░   71.81 %
+Python       55 mins         ██████░░░░░░░░░░░░░░░░░░░   24.21 %
+JSON         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
+YAML         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->

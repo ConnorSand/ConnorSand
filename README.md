@@ -15,12 +15,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 February 2025 - To: 26 February 2025
+From: 20 February 2025 - To: 27 February 2025
 
-JavaScript   2 hrs 36 mins   ███████████████████████░░   92.07 %
-JSON         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
-YAML         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
-Markdown     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+JavaScript   2 hrs 31 mins   ███████████████████████▓░   95.19 %
+JSON         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+Markdown     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 

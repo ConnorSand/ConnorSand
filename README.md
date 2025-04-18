@@ -15,9 +15,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 April 2025 - To: 16 April 2025
+From: 10 April 2025 - To: 17 April 2025
 
-No activity tracked
+Other        8 mins          ███████████████░░░░░░░░░░   60.23 %
+YAML         5 mins          █████████▓░░░░░░░░░░░░░░░   38.87 %
+Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->

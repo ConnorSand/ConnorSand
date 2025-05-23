@@ -15,13 +15,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 May 2025 - To: 21 May 2025
+From: 15 May 2025 - To: 22 May 2025
 
-YAML       0 secs          ████████████████████▒░░░░   81.49 %
-Other      0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
-Bash       0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
-JSON       0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
-Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

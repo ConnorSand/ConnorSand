@@ -15,9 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 May 2025 - To: 22 May 2025
+From: 16 May 2025 - To: 23 May 2025
 
-No activity tracked
+Bash              16 mins         ██████████▓░░░░░░░░░░░░░░   42.42 %
+CSV               9 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.95 %
+Other             5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.00 %
+Python            4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.96 %
+Java Properties   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
 ```
 
 <!--END_SECTION:waka-->

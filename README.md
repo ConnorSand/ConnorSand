@@ -15,7 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 May 2025 - To: 23 May 2025
+From: 17 May 2025 - To: 24 May 2025
 
 Bash              16 mins         ██████████▓░░░░░░░░░░░░░░   42.42 %
 CSV               9 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.95 %

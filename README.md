@@ -15,11 +15,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 June 2025 - To: 26 June 2025
+From: 20 June 2025 - To: 27 June 2025
 
-Other        2 mins          █████████████████▒░░░░░░░   68.97 %
-TypeScript   0 secs          █████▓░░░░░░░░░░░░░░░░░░░   22.79 %
-YAML         0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

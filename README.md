@@ -15,7 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 July 2025 - To: 16 July 2025
+From: 10 July 2025 - To: 17 July 2025
 
 YAML       4 hrs 55 mins   ██████████████████████▒░░   89.88 %
 Other      27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 %

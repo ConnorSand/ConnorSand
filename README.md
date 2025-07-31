@@ -15,13 +15,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 July 2025 - To: 29 July 2025
+From: 23 July 2025 - To: 30 July 2025
 
-YAML         2 hrs 8 mins    ███████████████▓░░░░░░░░░   62.57 %
-JavaScript   28 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.73 %
-JSON         25 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 %
-Git Config   10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
-Markdown     5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+YAML         2 hrs 8 mins    ███████████████████████▓░   94.10 %
+Other        4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+TypeScript   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->

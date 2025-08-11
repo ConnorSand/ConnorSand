@@ -15,10 +15,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 August 2025 - To: 09 August 2025
+From: 03 August 2025 - To: 10 August 2025
 
-YAML    10 hrs 19 mins  ███████████████████████▓░   94.95 %
-Other   32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
+YAML    10 hrs 37 mins  ███████████████████████▓░   95.00 %
+Other   33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
 ```
 
 <!--END_SECTION:waka-->

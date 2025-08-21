@@ -15,7 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 August 2025 - To: 19 August 2025
+From: 13 August 2025 - To: 20 August 2025
 
 YAML       31 mins         ███████████████▓░░░░░░░░░   62.20 %
 Other      10 mins         █████░░░░░░░░░░░░░░░░░░░░   20.65 %

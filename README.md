@@ -15,13 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 August 2025 - To: 31 August 2025
+From: 25 August 2025 - To: 01 September 2025
 
-Python       2 hrs 4 mins    ███████████████░░░░░░░░░░   59.35 %
-YAML         1 hr 7 mins     ████████░░░░░░░░░░░░░░░░░   32.16 %
-Other        10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
-JavaScript   7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
-Java         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+YAML         1 hr 7 mins     █████████████████████░░░░   84.44 %
+JavaScript   4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
+Other        4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
+Python       3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
+CSV          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->

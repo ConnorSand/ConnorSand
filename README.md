@@ -15,11 +15,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 September 2025 - To: 23 September 2025
+From: 17 September 2025 - To: 24 September 2025
 
-YAML    32 mins         █████████████▓░░░░░░░░░░░   54.92 %
-JSON    21 mins         █████████░░░░░░░░░░░░░░░░   36.00 %
-Other   5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 %
+YAML    21 mins         ███████████▒░░░░░░░░░░░░░   44.77 %
+JSON    21 mins         ███████████░░░░░░░░░░░░░░   44.11 %
+Other   5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
 ```
 
 <!--END_SECTION:waka-->

@@ -15,11 +15,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 September 2025 - To: 25 September 2025
+From: 20 September 2025 - To: 27 September 2025
 
-YAML    21 mins         ███████████▒░░░░░░░░░░░░░   44.77 %
-JSON    21 mins         ███████████░░░░░░░░░░░░░░   44.11 %
-Other   5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

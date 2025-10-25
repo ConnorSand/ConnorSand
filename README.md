@@ -15,13 +15,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 October 2025 - To: 23 October 2025
+From: 17 October 2025 - To: 24 October 2025
 
-JSON              1 hr 7 mins     █████████░░░░░░░░░░░░░░░░   35.66 %
-Java              44 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.33 %
-Bash              35 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.03 %
-YAML              18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 %
-JavaScript        16 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
+CSV   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

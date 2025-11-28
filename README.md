@@ -15,13 +15,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 November 2025 - To: 26 November 2025
+From: 20 November 2025 - To: 27 November 2025
 
-JSON       54 mins         ████████████████▒░░░░░░░░   64.91 %
-YAML       24 mins         ███████▒░░░░░░░░░░░░░░░░░   29.18 %
-Bash       4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
-Python     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+YAML   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

@@ -15,9 +15,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 March 2026 - To: 31 March 2026
+From: 25 March 2026 - To: 01 April 2026
 
-No activity tracked
+Markdown   41 mins               ████████░░░░░░░░░░░░░░░░░   31.82 %
+YAML       40 mins               ███████▓░░░░░░░░░░░░░░░░░   31.33 %
+Bash       35 mins               ███████░░░░░░░░░░░░░░░░░░   27.57 %
+Python     5 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
+Makefile   5 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
 ```
 
 <!--END_SECTION:waka-->

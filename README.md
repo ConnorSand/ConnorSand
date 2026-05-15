@@ -15,11 +15,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 May 2026 - To: 12 May 2026
+From: 07 May 2026 - To: 14 May 2026
 
-YAML    2 hrs 4 mins          ███████████████████████▓░   94.58 %
-INI     4 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
-Other   2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+YAML   3 mins                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
